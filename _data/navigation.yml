@@ -1,0 +1,14 @@
+main:
+
+  - title: "Teaching"
+    url: ./teaching.html  
+    right: true 
+
+  - title: People
+    url: ./people.html
+
+  - title: "Publications"
+    url: ./publications.html
+
+  - title: "Home"
+    url: ./index.html
