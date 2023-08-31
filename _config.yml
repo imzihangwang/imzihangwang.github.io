@@ -3,7 +3,7 @@ title: Zihang Wang
 position: Ph.D. Student in Biostatistics
 affiliation: Department of Biostatistics and Bioinfomatics, Emory University
 affiliation_link: https://sph.emory.edu/departments/bios/index.html
-affiliation_logo: ./assets/img/EU_shield_hz_bk.jpg
+# affiliation_logo: ./assets/img/EU_shield_hz_bk.jpg
 email: zihang.wang@emory.edu
 
 # Search Engine Optimization (SEO)
@@ -13,18 +13,18 @@ description: The Minimal Light is a simple and elegant jekyll theme for academic
 canonical: https://minimal-light-theme.yliu.me/
 
 # The option is used to enable the Johns Hopkins template.
-enable_hopkins_logo: true
+#enable_hopkins_logo: true
 
 # The option is used to show the last update time.
-enable_last_update: false
+# enable_last_update: false
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
-cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+#google_scholar: https://scholar.google.com/
+#cv_link: assets/files/curriculum_vitae.pdf
+github_link: https://github.com/zwang2333
+linkedin: https://www.linkedin.com/in/zihangwang0378/
+twitter: https://twitter.com/wzh_stat
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
