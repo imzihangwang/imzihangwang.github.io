@@ -4,7 +4,8 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student in the Department of Biostatistics and Bioinformatics at Emory University.
+My research interests include causal inference, imaging statistics, machine learning, and statistical genetics.
 
 ## Research Interests
 
