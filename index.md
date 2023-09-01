@@ -30,4 +30,11 @@ My name in Chinese is 王子航.
 
 {% include_relative _includes/publications.md %}
 
+## Teaching Experience
+- BIOS 521: Applied Survival Analysis, Teaching Assistant, Fall 2022, Emory University
+- INFO 521: Databases Using SQL, Teaching Assistant, Spring 2023, Emory University
+- BIOS 521: Applied Survival Analysis, Teaching Assistant, Fall 2023, Emory University
+
+<!--
 {% include_relative _includes/services.md %}
+-->
