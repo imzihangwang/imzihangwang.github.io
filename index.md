@@ -4,12 +4,19 @@ layout: homepage
 
 ## About Me
 
-I'm a third-year Ph.D. student in the [Department of Biostatistics and Bioinformatics](https://sph.emory.edu/departments/bios/index.html) at Emory University working with Professor [Benjamin B. Risk](https://github.com/thebrisklab). I received M.S. in Statistics from UW-Madison and B.S. in Statistics from Nankai University in China. I'm interested in statistical methods in neuroimaging, causal inference, machine learning, and statistical genetics.
+I'm a third-year Ph.D. student in the [Department of Biostatistics and Bioinformatics](https://sph.emory.edu/departments/bios/index.html) at Emory University working with Professor [Benjamin B. Risk](https://github.com/thebrisklab). I received my master's degree in Statistics from University of Wisconsin-Madison and bachelor's degree in Statistics from Nankai University in China. My research interests center around developing statistical methods and computational tools to analyze complex biomedical (neuroimaging/genetics) data.
+
+My name in Chinese is 王子航.
+
+## Education
+- M.S. in Statistics: Data Science, University of Wisconsin-Madison, 2021
+- B.S. in Statistics, Nankai University, 2020
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Neuroimaging Statistics:** independent component analysis (ICA), mediation analysis, motion correction
+- **Causal Inference:** high-dimensional mediation, semiparametric inference, targeted maximum likelihood estimation (TMLE)
+- **Statistical Genetics:** multi-trait analysis, genomic structural equation modeling (GSEM), genetic nurture
 
 ## News
 
