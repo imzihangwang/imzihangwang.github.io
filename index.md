@@ -10,9 +10,11 @@ I'm a third-year Ph.D. student in the [Department of Biostatistics and Bioinform
 My name in Chinese is 王子航.
 -->
 
+<!--
 ## Education
 - M.S. in Statistics: Data Science, University of Wisconsin-Madison, 2021
 - B.S. in Statistics, Nankai University, 2020
+-->
 
 ## Research Interests
 
