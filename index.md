@@ -22,15 +22,11 @@ My name in Chinese is 王子航.
 - **Causal Inference:** high-dimensional mediation, semiparametric inference, targeted maximum likelihood estimation (TMLE)
 - **Statistical Genetics:** multi-trait analysis, genomic structural equation modeling (GSEM), genetic nurture
 
-<!--
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
-
--->
+- **[Aug. 2023]** Oral presentation at Joint Statistical Meetings (JSM), Toronto, Canada
+- **[May. 2023]** Poster presentation at Statistical Methods in Imaging (SMI), Minneapolis, MN
+- **[Nov. 2022]** Oral presentation at Center for Biomedical Imaging Statistics (CBIS), Atlanta, GA
 
 {% include_relative _includes/publications.md %}
 
@@ -38,6 +34,15 @@ My name in Chinese is 王子航.
 - BIOS 521: Applied Survival Analysis, Teaching Assistant, Fall 2022, Emory University
 - INFO 521: Databases Using SQL, Teaching Assistant, Spring 2023, Emory University
 - BIOS 521: Applied Survival Analysis, Teaching Assistant, Fall 2023, Emory University
+
+## Honors and Awards
+- Patel-Naik Award, Department of Biostatistics and Bioinformatics, Emory University, 2022
+- Academic Excellence Award, Department of Statistics, University of Wisconsin-Madison, 2020
+- Outstanding Student Award for Innovation, Nankai University, 2019
+- National Second Prize of China Undergraduate Mathematical Contest in Modeling, 2018
+- Honorable Mention, Mathematical Contest in Modeling (MCM), 2018
+- International Exchange Scholarship, Nankai University, 2018
+- Outstanding Student Award for Cultural and Sports Activities, Nankai University, 2017
 
 <!--
 {% include_relative _includes/services.md %}
