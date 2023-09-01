@@ -18,12 +18,15 @@ My name in Chinese is 王子航.
 - **Causal Inference:** high-dimensional mediation, semiparametric inference, targeted maximum likelihood estimation (TMLE)
 - **Statistical Genetics:** multi-trait analysis, genomic structural equation modeling (GSEM), genetic nurture
 
+<!--
 ## News
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+
+-->
 
 {% include_relative _includes/publications.md %}
 
