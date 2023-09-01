@@ -1,5 +1,11 @@
 main:
 
+  - title: Sparse Independent Component Analysis with an Application to Cortical Surface fMRI Data in Autism.
+    authors: <strong>Wang Z.</strong>, Gaynanova I., Aravkin A., Risk B. B.
+    conference_short: Submitted
+    conference: Submitted to Journal of the American Statistical Association, 2022.
+    image: ./assets/img/sparseICA.png
+
   - title: GWAS on birth year infant mortality rates provides evidence of recent natural selection.
     authors: Wu Y., Furuya S., <strong>Wang Z.</strong>, Nobles J., Fletcher J.†, Lu Q.†
     conference_short: PNAS
