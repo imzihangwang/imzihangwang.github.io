@@ -1,14 +1,13 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
+  - title: GWAS on birth year infant mortality rates provides evidence of recent natural selection.
+    authors: Wu Y., Furuya S., <strong>Wang Z.*</strong>, Nobles J., Fletcher J.†, Lu Q.†
+    conference_short: PNAS
+    conference: Proceedings of the National Academy of Sciences <strong>(PNAS)</strong>, 2022.
+    pdf: https://www.pnas.org/doi/epdf/10.1073/pnas.2117312119
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    notes: Accompanying commentary article
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
