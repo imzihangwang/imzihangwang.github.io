@@ -16,3 +16,11 @@ main:
     pdf: https://doi.org/10.1037/abn0000659
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:7pJsldVflbgJ:scholar.google.com/&output=citation&scisdr=ClEa5Y8PEOWwkVAfoPM:AFWwaeYAAAAAZPIZuPN052vp9XWjN7pIMyY4Ax0&scisig=AFWwaeYAAAAAZPIZuFbWj1Div-3vT6AiH9GM7Zs&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/RDoC.png
+
+  - title: "Enhancing the discriminatory power of ADHD and autism spectrum disorder polygenic scores in clinical and non-clinical samples."
+    authors: Li J., He Q., <strong>Wang Z.</strong>, Lu Q.
+    conference_short: medRxiv
+    conference: medRxiv, 2022.
+    pdf: https://www.medrxiv.org/content/10.1101/2022.02.09.22270697v1
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:RkrErvVBWS0J:scholar.google.com/&output=citation&scisdr=ClEa5Y8PEOWwkVAdMZY:AFWwaeYAAAAAZPIbKZbWiEGrg31EHsHm8CSALa4&scisig=AFWwaeYAAAAAZPIbKU6H-E5ijdH0tKnW4UoMWhw&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/enhancing.png
