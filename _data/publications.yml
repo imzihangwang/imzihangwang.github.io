@@ -9,13 +9,10 @@ main:
     image: ./assets/img/pnas.png
     notes: Accompanying commentary article
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Research domain criteria (RDoC) mechanisms of transdiagnostic polygenic risk for trajectories of depression: from early adolescence to adulthood."
+    authors: Li J., Zhang Q., <strong>Wang Z.</strong>, Lu Q.
+    conference_short: JPCS
+    conference: Journal of Psychopathology and Clinical Science, 2022.
+    pdf: https://doi.org/10.1037/abn0000659
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:7pJsldVflbgJ:scholar.google.com/&output=citation&scisdr=ClEa5Y8PEOWwkVAfoPM:AFWwaeYAAAAAZPIZuPN052vp9XWjN7pIMyY4Ax0&scisig=AFWwaeYAAAAAZPIZuFbWj1Div-3vT6AiH9GM7Zs&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/RDoC.png
