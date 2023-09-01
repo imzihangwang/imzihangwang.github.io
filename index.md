@@ -31,18 +31,16 @@ My name in Chinese is 王子航.
 {% include_relative _includes/publications.md %}
 
 ## Teaching Experience
-- BIOS 521: Applied Survival Analysis, Teaching Assistant, Fall 2022, Emory University
-- INFO 521: Databases Using SQL, Teaching Assistant, Spring 2023, Emory University
-- BIOS 521: Applied Survival Analysis, Teaching Assistant, Fall 2023, Emory University
+- BIOS 521: Applied Survival Analysis (Master's core course, 28 students), Teaching Assistant, Fall 2022, Emory University
+- INFO 521: Databases Using SQL (35 students), Teaching Assistant, Spring 2023, Emory University
+- BIOS 521: Applied Survival Analysis (Master's core course, 27 students), Teaching Assistant, Fall 2023, Emory University
 
 ## Honors and Awards
 - Patel-Naik Award, Department of Biostatistics and Bioinformatics, Emory University, 2022
 - Academic Excellence Award, Department of Statistics, University of Wisconsin-Madison, 2020
 - Outstanding Student Award for Innovation, Nankai University, 2019
 - National Second Prize of China Undergraduate Mathematical Contest in Modeling, 2018
-- Honorable Mention, Mathematical Contest in Modeling (MCM), 2018
 - International Exchange Scholarship, Nankai University, 2018
-- Outstanding Student Award for Cultural and Sports Activities, Nankai University, 2017
 
 <!--
 {% include_relative _includes/services.md %}
