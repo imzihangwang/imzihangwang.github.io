@@ -5,8 +5,8 @@ main:
     conference_short: PNAS
     conference: Proceedings of the National Academy of Sciences <strong>(PNAS)</strong>, 2022.
     pdf: https://www.pnas.org/doi/epdf/10.1073/pnas.2117312119
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:yzXzrueLw20J:scholar.google.com/&output=citation&scisdr=ClEeyrPxEIX0j286L-0:AFWwaeYAAAAAZPE8N-2m37yiIVItsSz3fEkF-KM&scisig=AFWwaeYAAAAAZPE8N47Qb4mDRxq7OKdKrhD81c8&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/pnas.png
     notes: Accompanying commentary article
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
