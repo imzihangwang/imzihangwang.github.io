@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm a third-year Ph.D. student in the [Department of Biostatistics and Bioinformatics](https://sph.emory.edu/departments/bios/index.html) at Emory University working with Professor [Benjamin B. Risk](https://github.com/thebrisklab). I received my master's degree in Statistics from University of Wisconsin-Madison and bachelor's degree in Statistics from Nankai University in China. My research interests center around developing statistical methods and computational tools to analyze complex biomedical (neuroimaging/genetics) data.
+I'm a third-year Ph.D. student in the [Department of Biostatistics and Bioinformatics](https://sph.emory.edu/departments/bios/index.html) at Emory University working with Professor [Benjamin B. Risk](https://github.com/thebrisklab). Prior to Emory, I received my master's degree in Statistics from University of Wisconsin-Madison, where I was very fortunate to be supervised by Professor [Qiongshi Lu](https://qlu-lab.org/people.html). I received my bachelor's degree in Statistics from Nankai University in China. My research interests center around developing statistical methods and computational tools to analyze complex biomedical (neuroimaging/genetics) data.
 
 <!--
 My name in Chinese is 王子航.
