@@ -18,9 +18,9 @@ My name in Chinese is 王子航.
 
 ## Research Interests
 
-- **Neuroimaging Statistics:** independent component analysis (ICA), mediation analysis, motion correction
-- **Causal Inference:** high-dimensional mediation, semiparametric inference, targeted maximum likelihood estimation (TMLE)
-- **Statistical Genetics:** multi-trait analysis, genomic structural equation modeling (GSEM), genetic nurture
+- **Neuroimaging Statistics:** multivariate analysis, motion correction, imaging causal inference, brain connectivity analysis.
+- **Causal Inference:** longitudinal causal inference, quantile treatment effect, high-dimensional mediation, semiparametric inference, targeted machine learning.
+- **Statistical Genetics:** multi-trait modeling, Mendelian randomization, genetic nurture.
 
 ## News
 
@@ -31,9 +31,9 @@ My name in Chinese is 王子航.
 {% include_relative _includes/publications.md %}
 
 ## Teaching Experience
-- BIOS 521: Applied Survival Analysis (Master's core course, 28 students), Teaching Assistant, Fall 2022, Emory University
-- INFO 521: Databases Using SQL (35 students), Teaching Assistant, Spring 2023, Emory University
-- BIOS 521: Applied Survival Analysis (Master's core course, 27 students), Teaching Assistant, Fall 2023, Emory University
+- BIOS 521: Applied Survival Analysis (Master's core course, 28 students), Teaching Assistant, Emory University, Fall 2023
+- INFO 521: Databases Using SQL (35 students), Teaching Assistant, Emory University, Spring 2023
+- BIOS 521: Applied Survival Analysis (Master's core course, 27 students), Teaching Assistant, Emory University, Fall 2022
 
 ## Honors and Awards
 - Patel-Naik Award, Department of Biostatistics and Bioinformatics, Emory University, 2022
