@@ -31,7 +31,7 @@ My name in Chinese is 王子航.
 {% include_relative _includes/publications.md %}
 
 ## Teaching Experience
-- BIOS 521: Applied Survival Analysis (Master's core course, 28 students), Teaching Assistant, Emory University, Fall 2023
+- BIOS 521: Applied Survival Analysis (Master's core course, 26 students), Teaching Assistant, Emory University, Fall 2023
 - INFO 521: Databases Using SQL (35 students), Teaching Assistant, Emory University, Spring 2023
 - BIOS 521: Applied Survival Analysis (Master's core course, 27 students), Teaching Assistant, Emory University, Fall 2022
 
