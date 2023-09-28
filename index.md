@@ -18,7 +18,7 @@ My name in Chinese is 王子航.
 
 ## Research Interests
 
-- **Neuroimaging Statistics:** multivariate analysis, imaging causal inference, brain connectivity analysis.
+- **Neuroimaging Statistics:** multivariate analysis, imaging causal inference, brain connectivity analysis, motion correction.
 - **Causal Inference:** longitudinal causal inference, quantile treatment effect, high-dimensional mediation, semiparametric inference, targeted machine learning.
 - **Statistical Genetics:** multi-trait modeling, Mendelian randomization, genetic nurture.
 
